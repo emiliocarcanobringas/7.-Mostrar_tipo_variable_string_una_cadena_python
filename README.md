@@ -1,1 +1,1 @@
-# 7.-Mostrar_tipo_variable_string_una_cadena_python
+# Este programa muestra en pantalla el valor de una variable de tipo string
