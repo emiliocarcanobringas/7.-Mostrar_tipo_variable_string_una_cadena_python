@@ -1,0 +1,1 @@
+# 7.-Mostrar_tipo_variable_string_una_cadena_python
